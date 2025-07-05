@@ -23,8 +23,8 @@ V3.0 视频展示：[BiliBili](https://www.bilibili.com/video/BV17P7DzeEUf/)
 5. 支持Windows动态光效
 6. 支持触摸条操作
 7. 集成USB hub接口
-8. 集成磁吸扩展口
-9. 使用I2C小红点方案
+8. 集成磁吸扩展口，支持多种扩展模块
+9. 支持指点杆操作（小红点）
 10. 自研OELD UI动画
 11. 多种Fn功能
 12. 自动低功耗模式
